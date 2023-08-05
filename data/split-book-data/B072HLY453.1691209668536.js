@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Justin Miller presents the second book in the World Seed series. Join John Hulett as he continues his journey through the world of NeoLife, bringing his experiences and powers to play on Earth to aid against the coming storm. What exactly does the future hold for mankind? </p>"; 

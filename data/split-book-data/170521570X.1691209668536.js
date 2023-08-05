@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>As Robia Valley recovers from the necromancer attack, Regan and Louella work to increase their strength to meet the coming challenges. In the dark, forces move to unknown means. Adventurers come from far and wide to test their strength in the rumored dungeon. Join them as they make their journey.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Journey to a new world. Check. Tame a dragon. Check. Gain incredible magic power. Check. Save the Kingdom. Check. Acquire more dragons. Check. Repeat as needed.&nbsp;&nbsp;</p> <p><b>DISCLAIMER: This book contains a harem and adult situations. Trust me, it's awesome.</b></p>"; 

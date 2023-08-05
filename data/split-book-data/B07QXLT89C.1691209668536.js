@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The human soldiers stranded on the planet Paradise have been recruited into an alien legion to do the dirty jobs that the high-tech species won't do. Their first mission is to kick the enemy off a backwater planet no one cares about. It's a simple assignment, except everyone has a hidden agenda, and the planet could become a deathtrap.</p>"; 

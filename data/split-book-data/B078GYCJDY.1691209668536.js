@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Join John Hulett as he faces new enemies, the likes of which he couldn't imagine. Fighting against a hidden trauma and a conspiracy that goes beyond anything he can believe, discovering the ultimate truths behind the events of the universe, what will be the final outcome for him and his family? </p>"; 

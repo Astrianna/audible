@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Dale's world is growing faster and faster, with new dangers appearing and new opportunities arising. Join him and his people as they conquer these new challenges to develop a brighter future.</p>"; 

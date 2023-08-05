@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Contracts. Teambuilding. Comradery. </b></p> <p>Nothing is perfect on Dorbin. Frank knowns the planet is rife with issues that only exacerbate his problems. After being run ragged all over Lornshire, he's eager to find a nice home. Except...</p> <p><b>The epic adventure continues with plenty of exciting twists and turns.</b></p>"; 

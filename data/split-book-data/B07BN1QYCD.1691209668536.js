@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Emma has gained control of one district of a city run by a woman that she tried to kill. While her new position has improved her upgrade abilities the other district heads have had theirs enhanced as well.</p> <p>More of what the series is known for: more super-powered action, more insults, and more upgrades in a struggle to survive.</p>"; 

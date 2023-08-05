@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Kel fights to maintain the rigorous regimen of a page while confronting the prejudices that come with being a female in a man's world and coping with a crush on her closest friend, Neal.</p>"; 

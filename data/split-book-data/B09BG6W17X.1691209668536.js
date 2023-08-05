@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book nine of the popular series Delphi in Space Delphi. In it, we find the McCormacks having to defend Artemis from the same aliens that attacked the Paraxean colony fleet over 70 years before. Follow along as Catie finally graduates from the Academy. Discover the secrets of the invading Aliens - what do they want, where do they come from?</p>"; 

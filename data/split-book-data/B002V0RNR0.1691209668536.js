@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A small town newspaper editor and a local minister uncover a web of conspiracy while an unseen battle between the angels of good and evil takes place in the town of Ashton.</p>"; 

@@ -1,0 +1,1 @@
+var g={methods:{secondsToTimeString:function(s,o){var i=function(e,a){return o?e:("000"+e).slice(a*-1)},n=parseFloat(s).toFixed(3),t=Math.floor(n/60/60),f=Math.floor(n/60)%60;n.slice(-3);var r=(t.toString().length>1?t:i(t,2))+(o?"h ":"."),u=i(f,2)+(o?"m ":"");return o&&!t&&(r=""),r+u}}};export{g as s};

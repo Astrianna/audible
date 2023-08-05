@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In a world similar to our own 17th century, one man's kindness lifts a poor, homeless boy from the dirt and sets him on an unlikely path of adventure.</p> <p>An average man would use a silver coin to buy food for a week.</p> <p>An extraordinary boy can use that same coin to build an empire.</p>"; 

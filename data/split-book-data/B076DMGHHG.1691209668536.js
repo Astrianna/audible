@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>As the fight for Boran-al's Citadel draws to a close, Dave's learned one important lesson: To protect what he cares for, he's going to have to become stronger. He can't just sit back in Cliff-Hill and take things easy. Emerilia is filled with danger as well as possibilities. It's time that Dave becomes a Master Smith. </p>"; 

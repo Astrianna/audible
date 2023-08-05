@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Duel your enemy and kill him. Take his assets, including his wives, as your own. Grow your estate and become the most powerful warrior mage this world has ever seen.</p>"; 

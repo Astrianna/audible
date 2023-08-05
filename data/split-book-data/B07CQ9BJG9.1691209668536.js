@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Emma has come far since being the artificial intelligence housed in an underground laboratory. A full city is now at her command and with that strength comes the need to maintain it. Resources are in short supply and the threats out there in the world are bigger and more dangerous than ever. It is time for some upgrades.</p>"; 

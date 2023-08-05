@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Last Horizon, the world's first fully immersive RPG, leaves beta and goes live! Rejoin David, Miriam, Will, and Lavender as they spend David's last few months trying to find happiness and joy within the world of Last Horizon and deal with those not content to let the friends enjoy their time together. </p>"; 

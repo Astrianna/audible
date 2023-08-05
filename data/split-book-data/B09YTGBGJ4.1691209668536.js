@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After ADI informs the board that with the stress of the new planets in the League, they will run out of platinum metals, Catie is asked to build a starbase so they can have a reliable source in another star system. Of course, nothing is ever simple, and Catie has to struggle with those whose personal greed puts everyone at risk.</p>"; 
