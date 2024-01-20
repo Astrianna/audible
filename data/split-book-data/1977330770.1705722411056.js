@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Follow Dale as he meets new Keepers, unlocks greater secrets of the system, and learns more about both himself and his heavenly host. When the Keeper speaks, who will listen? In an age where war could lurk around any corner, who could afford not to?</p>"; 

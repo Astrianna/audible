@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>\"Girl - this, this is war.\"</p> <p>After being reborn and becoming a magic wielding soldier in the Imperial Army, Tanya Degurechaff bemoans her fate of being placed at the very edge of the front lines instead of a comfy place in the rear. Swearing revenge on Being X, she plunges head-first into battle, dragging her subordinate along with her!</p>"; 

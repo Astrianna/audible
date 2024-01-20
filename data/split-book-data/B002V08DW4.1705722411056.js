@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In this third volume of the popular Immortals Quartet, Daine enters a glittering world laced with danger and treachery, a world that grows more intense when the gods themselves push her to use her wild magic for their own ends."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Everyone needs a second chance. But not everyone is able to get one. Some are wasted, some are lost, some are cherished. Join Dale as he lives out his Second Chance, and all of those around him who get their own.</p>"; 

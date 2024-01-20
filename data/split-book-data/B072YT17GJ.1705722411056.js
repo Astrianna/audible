@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>While the crew of the UN Expeditionary Force's pirate starship Flying Dutchman are enjoying a luxury vacation cruise (not!), UNEF troops are still stranded on an alien-controlled planet.</p> <p>Major Emily Perkins and her team are busy picking up the pieces, and it's not easy, because there is trouble on Paradise...</p>"; 

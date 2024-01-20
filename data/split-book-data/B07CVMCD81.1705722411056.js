@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A legendary sword is left behind by his master, the Godking. Trapped for millennia, the sword's spirit awaits the day he'll be set free. Will his new master be worthy of inheriting the Godking's legacy?</p> <p><i> Content Warning: Profanity. Gore. Sexual themes.</i></p>"; 

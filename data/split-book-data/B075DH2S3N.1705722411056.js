@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Humanity is facing its greatest crisis yet, and there is only one frontier left for them to explore. Join John as he travels through time and space, though not together, to save all that he holds dear. There may also be a good deal of escaping reality involved as well. You have been warned! </p>"; 

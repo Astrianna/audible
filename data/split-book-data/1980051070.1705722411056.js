@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Restoring the empire that had been destroyed 45 years earlier, Emperor Colin finds problems in the genocidal Achuutani and in his children, Sean and Harriet, who have been marooned on a hostile planet.&nbsp;</p>"; 

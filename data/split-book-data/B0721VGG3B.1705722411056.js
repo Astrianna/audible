@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Advances in technology have led to the creation of ever more realistic virtual reality games, but now Full Immersion Virtual Reality is finally coming true. Join David and his oldest friends as they sign up to beta test the first game of its kind. Last Horizon will give the old gamers the chance to live out one last adventure together. </p>"; 

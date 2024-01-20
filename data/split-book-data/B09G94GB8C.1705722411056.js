@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Delphineans have to deal with the fact that the Fazullan ship has slaves on it. They repatriate the Paraxean slaves with Mangkator and need to find a planet for the other slaves. But what do they do with the Fazullans? Then Catie takes is assigned the mission to take the Onisiwoens, the third set of aliens, home. What will she find there?</p>"; 

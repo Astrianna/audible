@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Strengthen bonds with dragons? Check.&nbsp;</p> <p>Master new powers granted by dragons? Check.&nbsp;</p> <p>Figure out who the traitor to the kingdom is? Check.&nbsp;</p> <p>Defeat the evil king in a battle of wits? Check.&nbsp;</p> <p>Disclaimer: This book contains a harem and adult situations. Trust me, it's awesome.</p>"; 

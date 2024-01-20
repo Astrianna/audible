@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Amber, the house mother of the notorious sorority Phi Beta Pie, is home on vacation! What was intended to be a week of family bonding ends up being exactly that - in more ways than one! </p>"; 

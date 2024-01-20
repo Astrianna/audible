@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The world has become far more chaotic, in more ways than one. The void presses in from all sides, and Dale must decide the direction he wants to take his world in order to overcome it. New challenges await, and it is up to him to see them through.</p>"; 

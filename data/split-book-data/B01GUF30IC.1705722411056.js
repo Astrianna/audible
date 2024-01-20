@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Surviving Ragnarok is a challenge no matter what powers you have, and new problems keep cropping up. Demanding witches, genocidal monsters, divine feuds, and local politics will all keep Daniel on his toes. But his enemies have made one crucial mistake. They've given an engineer who understands the nature of magic time to build things. </p>"; 

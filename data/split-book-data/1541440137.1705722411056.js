@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With divinity in hand, the challenges will only continue to get larger for Dale Mitchell as his worlds grow. What new struggles await him and his companions, and what direction will these new challenges take him?</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Void has shown itself, forcing Dale to confront an all new type of enemy, one that cannot merely be beaten back with physical force. He must adapt to the rules of these new monsters and learn how to overcome them, while keeping the threats from within his own world from destroying everything.</p>"; 

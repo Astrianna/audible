@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A new threat arises, stirring the beasts in its wake. A primordial beast so powerful all the gatherers in the nation have little hope of defeating it. Aiden must find a way to stand and prevent the destruction of Craesti City, the capital of the Kingdom.</p>"; 

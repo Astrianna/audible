@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "This audiobook is recorded in Russian. Genre is RPG-lit. In the future people will not die completely. They will move their consciousness into a virtual reality called the \"Galaxy online\"."; 

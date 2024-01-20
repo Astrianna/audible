@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What's that you say? You want more village growth? Well be careful where you stand, because the Mist Village just took a Viagra-Cialis sandwich and there is a stiff breeze blowing! (I can make some more references if you're still not getting the point...did you see what I did there?)</p>"; 

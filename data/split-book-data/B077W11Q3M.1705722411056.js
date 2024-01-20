@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Koren Bladewell's future was stolen from him, by wizards who chose to lie, to conceal the fact that Koren is a wizard. </p> <p>Crown princess Ariana Trehayme must find a way to become queen before her 16th birthday - before her indecisive mother allows all of Tarador to be conquered. </p>"; 
